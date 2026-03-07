@@ -27,7 +27,7 @@ Qualified in **GATE 2025 (Data Science & AI)**, I specialize in building scalabl
 
 | Category          | Skills                                                                 |
 |:----------------- |:---------------------------------------------------------------------- |
-| **Languages**     | Python (Pandas, Scikit-Learn, NumPy), SQL (PostgreSQL, MySQL), PySpark |
+| **Languages**     | Python (Pandas, Scikit-Learn, NumPy), SQL (MySQL), PySpark |
 | **Big Data**      | ETL Pipelines, Databricks, Distributed Computing, Schema Enforcement   |
 | **Data Science**  | EDA, Statistical Modeling, XGBoost, SHAP, SMOTE, Class Imbalance       |
 | **Visualization** | Tableau, Streamlit, Matplotlib, Seaborn                                |
