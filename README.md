@@ -1,4 +1,4 @@
-#  Hi there, I'm Bhavika Sahu 👋
+#  Hi there, I'm Bhavika Sahu 
 
 ### GATE 2025 (Data Science & AI) Qualified | Data Analyst | Electronics Engineer
 
