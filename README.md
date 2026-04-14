@@ -1,6 +1,6 @@
 # Hi there, I'm Bhavika Sahu
 
-### GATE 2025 (Data Science & AI) Qualified | Aspiring Data Professional | Electronics Engineer
+###  Aspiring Data Professional | Electronics Engineer | GATE 2025 (Data Science & AI) Qualified
 
 <p align="left">  <img src="https://img.shields.io/badge/SQL-LeetCode--50-blue?style=for-the-badge&logo=leetcode" />  <img src="https://img.shields.io/badge/Python-3.x-green?style=for-the-badge&logo=python" />  <img src="https://img.shields.io/badge/Spark-PySpark-orange?style=for-the-badge&logo=apachespark" />  <img src="https://img.shields.io/badge/Cloud-Databricks-red?style=for-the-badge&logo=databricks" />  <img src="https://img.shields.io/badge/BI-PowerBI-yellow?style=for-the-badge&logo=powerbi" /></p>
 
