@@ -72,6 +72,7 @@ Qualified in **GATE 2025 (Data Science & AI)**, I specialize in building scalabl
 * 🥇 **GATE 2025 Qualified** (Data Science & AI)
 * 🧠 **LeetCode SQL 50 Badge**
 * 📜 **HackerRank SQL (Advanced)** Certified
+* 💼 **Data Analytics Job Simulation (Deloitte)** - Completed end-to-end data processing in Excel and executive-level dashboarding in Tableau
 * 🏅 **L&T Excellence Award** – For Successful Completion of Priority Corridor's Work
 
 * * *
