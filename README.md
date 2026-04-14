@@ -33,35 +33,39 @@ Qualified in **GATE 2025 (Data Science & AI)**, I specialize in building scalabl
 
 ## 📈 Featured Projects
 
-### 🛡️ [FraudFinder: Insurance Claim Risk Prediction](https://github.com/bhavikasahu09/FraudFinder)
+<div class="featured-projects">
+  <h2>Featured Projects</h2>
 
-*End-to-end machine learning pipeline for fraud detection in BFSI.*
+  <div class="project">
+    <h3 class="project-title">🛡️ FraudFinder: Insurance Claim Risk Prediction</h3>
+    <p class="project-desc">End-to-end machine learning pipeline for fraud detection in BFSI.</p>
+    <ul>
+      <li>🎯 <strong>Impact:</strong> Achieved 93.51% Recall</li>
+      <li>⚙️ <strong>Tech:</strong> Python, XGBoost, SHAP, Streamlit</li>
+      <li>💡 <strong>Highlight:</strong> Handled extreme class imbalance using <code>scale_pos_weight</code> + threshold tuning</li>
+    </ul>
+  </div>
 
-* 🎯 **Impact:** Achieved **93.51% Recall**
-* ⚙️ **Tech:** Python, XGBoost, SHAP, Streamlit
-* 💡 **Highlight:** Handled extreme class imbalance using `scale_pos_weight` + threshold tuning
+  <div class="project">
+    <h3 class="project-title">📦 Amazon Sales Scalable ETL</h3>
+    <p class="project-desc">High-performance distributed ETL pipeline for e-commerce analytics.</p>
+    <ul>
+      <li>🚀 <strong>Impact:</strong> Optimized large-scale transformations using Databricks & PySpark</li>
+      <li>⚙️ <strong>Tech:</strong> Spark SQL, Parallel Processing</li>
+      <li>💡 <strong>Highlight:</strong> Designed for horizontal scalability</li>
+    </ul>
+  </div>
 
-* * *
-
-### 📦 [Amazon Sales Scalable ETL](https://github.com/bhavikasahu09/Amazon-ETL-Pipeline)
-
-*High-performance distributed ETL pipeline for e-commerce analytics.*
-
-* 🚀 **Impact:** Optimized large-scale transformations using **Databricks & PySpark**
-* ⚙️ **Tech:** Spark SQL, Parallel Processing
-* 💡 **Highlight:** Designed for **horizontal scalability**
-
-* * *
-
-###### 💳 [Credit Card Financial Dashboard (Power BI)](https://github.com/bhavikasahu09/Credit-card-financial-dashboard.git)
-
-*Interactive BI dashboard for financial and customer analytics.*
-
-* 📊 **Impact:** Delivered insights on **revenue trends, customer segmentation, and spending patterns**
-* ⚙️ **Tech:** Power BI, SQL, Power Query, DAX
-* 💡 **Highlight:** Built an **interactive dashboard with dynamic filtering and KPI tracking**
-
-* * *
+  <div class="project">
+    <h3 class="project-title">💳 Credit Card Financial Dashboard (Power BI)</h3>
+    <p class="project-desc">Interactive BI dashboard for financial and customer analytics.</p>
+    <ul>
+      <li>📊 <strong>Impact:</strong> Delivered insights on revenue trends, customer segmentation, and spending patterns</li>
+      <li>⚙️ <strong>Tech:</strong> Power BI, SQL, Power Query, DAX</li>
+      <li>💡 <strong>Highlight:</strong> Built an interactive dashboard with dynamic filtering and KPI tracking</li>
+    </ul>
+  </div>
+</div>
 
 ## 🏆 Certifications & Achievements
 
